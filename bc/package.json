@@ -1,5 +1,5 @@
 {
-  "name": "ba",
+  "name": "bc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/test-helpers": "^0.5.16",
     "@truffle/hdwallet-provider": "^2.1.0"
   },
   "devDependencies": {
-    "@openzeppelin/test-helpers": "^0.5.16",
-    "solidity-coverage": "^0.8.2",
-    "truffle": "^5.6.1"
+    "solidity-coverage": "^0.8.2"
   }
 }
